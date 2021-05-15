@@ -2506,23 +2506,6 @@
       "target": 34962
     }
   ],
-  "buffers": [
-    {
-      "byteLength": 1848044,
-      "uri": "scene.bin"
-    }
-  ],
-  "images": [
-    {
-      "uri": "textures/Electron_baseColor.png"
-    },
-    {
-      "uri": "textures/Electron_metallicRoughness.png"
-    },
-    {
-      "uri": "textures/Electron_White_baseColor.png"
-    }
-  ],
   "materials": [
     {
       "doubleSided": true,
